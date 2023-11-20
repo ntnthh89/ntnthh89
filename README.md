@@ -1,5 +1,5 @@
  <html>
    <head>
-     <title>Welcom to Ballari</title>
+     <h1>Welcom to Ballari</h1>
    </head>
  </html>
